@@ -8,7 +8,7 @@ Day 1
   ~ Introduction
 
 Day 2
-  ~ Sequences (11.1). Limit of sequence. Limit Laws.
+  ~ [Sequences (11.1). Limit of sequence. Limit Laws.](notes/sequences.md)
 
 Day 3
   ~ Sequences (cont, 11.1). Bounded Sequences.
