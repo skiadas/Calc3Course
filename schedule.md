@@ -11,7 +11,7 @@ Day 2
   ~ [Sequences (11.1). Limit of sequence. Limit Laws.](notes/sequences.md)
 
 Day 3
-  ~ Sequences (cont, 11.1). Bounded Sequences.
+  ~ [Sequences (cont, 11.1). Bounded Sequences.](notes/sequences_bounded.md)
 
 Day 4
   ~ Sequences (cont, 11.1).
