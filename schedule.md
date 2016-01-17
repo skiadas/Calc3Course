@@ -11,63 +11,63 @@ Day 2
   ~ [Sequences (11.1). Limit of sequence. Limit Laws.](notes/sequences.md)
 
 Day 3
-  ~ [Sequences (cont, 11.1). Bounded Sequences.](notes/sequences_bounded.md)
+  ~ [Sequences (11.1). Limit of sequence. Limit Laws. (cont)](notes/sequences.md)
 
 Day 4
-  ~ Sequences (cont, 11.1).
+  ~ [Sequences (cont, 11.1). Bounded Sequences.](notes/sequences_bounded.md)
 
 ## Week  2 (01/18-01/22)
 
 Day 1
-  ~ Infinite Series (11.2). Introduction.
+  ~ [Sequences (cont, 11.1). Bounded Sequences. (cont)](notes/sequences_bounded.md)
 
 Day 2
-  ~ Infinite Series (11.2). Geometric Series. Divergence Test.
+  ~ [Infinite Series (11.2). Introduction.](notes/series_intro.md)
 
 Day 3
-  ~ Positive Terms series (11.3).
+  ~ [Infinite Series (11.2). Geometric Series. Divergence Test.](notes/series_intro.md)
 
 Day 4
-  ~ Absolute vs Conditional Convergence (11.4).
+  ~ Positive Terms series (11.3).
 
 ## Week  3 (01/25-01/29)
 
 Day 1
-  ~ Ratio and Root tests (11.5).
+  ~ Absolute vs Conditional Convergence (11.4).
 
 Day 2
-  ~ Power Series (11.6).
+  ~ Ratio and Root tests (11.5).
 
 Day 3
-  ~ Power Series (cont, 11.6).
+  ~ Power Series (11.6).
 
 Day 4
-  ~ Taylor Series (11.7).
+  ~ Power Series (cont, 11.6).
 
 ## Week  4 (02/01-02/05)
 
 Day 1
-  ~ Chapter 11 Review/Catchup.
+  ~ Taylor Series (11.7).
 
 Day 2
-  ~ Vectors in the Plane (13.1).
+  ~ Chapter 11 Review/Catchup.
 
 Day 3
-  ~ Vectors in the Plane (13.1, cont).
+  ~ Vectors in the Plane (13.1).
 
 Day 4
-  ~ Vectors in the Space (13.2). Equations for lines in space.
+  ~ Vectors in the Plane (13.1, cont).
 
 ## Week  5 (02/08-02/12)
 
 Day 1
-  ~ Dot product and angles (13.3).
+  ~ Vectors in the Space (13.2). Equations for lines in space.
 
 Day 2
-  ~ Dot product and angles (cont, 13.3). Projections.
+  ~ Dot product and angles (13.3).
 
 Day 3
-  ~ Review/Catchup
+  ~ Dot product and angles (cont, 13.3). Projections.
 
 Day 4
   ~ **Midterm 1**
