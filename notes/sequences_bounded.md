@@ -7,7 +7,7 @@ Section 11.1 from 548
 ## Problems
 
 - Practice Problems: 11.1 61, 65, 67, 73, 74, 83
-- Problems to turn in: 11.1 70, 84
+- Problems to turn in: 11.1 70
 - Challenge (optional): 11.1 85, 86, 87
 
 ## Topics to know
