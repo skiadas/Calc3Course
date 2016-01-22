@@ -30,12 +30,14 @@ Day 3
 Day 4
   ~ [Positive Terms series (11.3), comparison and limit comparison tests](notes/series_positive.md)
 
-    Absolute vs Conditional Convergence (11.4).
+    [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
 
 ## Week  3 (01/25-01/29)
 
 Day 1
-  ~ Ratio and Root tests (11.5).
+  ~ [Absolute vs Conditional Convergence (11.4), alternating series](notes/series_conditional.md)
+
+    Ratio and Root tests (11.5).
 
 Day 2
   ~ Power Series (11.6).
