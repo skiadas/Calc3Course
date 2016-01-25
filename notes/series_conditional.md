@@ -1,4 +1,4 @@
-# Series
+# Absolute and Conditional Convergence
 
 ## Reading
 

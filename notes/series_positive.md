@@ -1,4 +1,4 @@
-# Series
+# Positive Terms Series
 
 ## Reading
 
