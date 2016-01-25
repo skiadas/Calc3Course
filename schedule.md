@@ -30,48 +30,45 @@ Day 3
 Day 4
   ~ [Positive Terms series (11.3), comparison and limit comparison tests](notes/series_positive.md)
 
-    [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
-
 ## Week  3 (01/25-01/29)
 
 Day 1
-  ~ [Absolute vs Conditional Convergence (11.4), alternating series](notes/series_conditional.md)
+  ~ [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
 
-    Ratio and Root tests (11.5).
 
 Day 2
-  ~ Power Series (11.6).
+  ~ Ratio and Root tests (11.5).
 
 Day 3
-  ~ Power Series (cont, 11.6).
+  ~ Power Series (11.6).
 
 Day 4
-  ~ Taylor Series (11.7).
+  ~ Power Series (cont, 11.6).
 
 ## Week  4 (02/01-02/05)
 
 Day 1
-  ~ Chapter 11 Review/Catchup.
+  ~ Taylor Series (11.7).
 
 Day 2
-  ~ Vectors in the Plane (13.1).
+  ~ Chapter 11 Review/Catchup.
 
 Day 3
-  ~ Vectors in the Plane (13.1, cont).
+  ~ Vectors in the Plane (13.1).
 
 Day 4
-  ~ Vectors in the Space (13.2). Equations for lines in space.
+  ~ Vectors in the Plane (13.1, cont).
 
 ## Week  5 (02/08-02/12)
 
 Day 1
-  ~ Dot product and angles (13.3).
+  ~ Vectors in the Space (13.2). Equations for lines in space.
 
 Day 2
-  ~ Dot product and angles (cont, 13.3). Projections.
+  ~ Dot product and angles (13.3).
 
 Day 3
-  ~ Cross product (13.4).
+  ~ Dot product and angles (cont, 13.3). Projections.
 
 Day 4
   ~ **Midterm 1**
@@ -79,55 +76,55 @@ Day 4
 ## Week  6 (02/15-02/19)
 
 Day 1
-  ~ Equations for planes (13.5).
+  ~ Cross product (13.4).
 
 Day 2
-  ~ Equations for planes (cont, 13.5).
+  ~ Equations for planes (13.5).
 
 Day 3
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Equations for planes (cont, 13.5).
 
 Day 4
-  ~ Vector-valued functions (14.1).
+  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
 
 ## Week  7 (02/22-02/26)
 
 Day 1
-  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
+  ~ Vector-valued functions (14.1).
 
 Day 2
-  ~ Arc Length (14.3).
+  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
 
 Day 3
-  ~ Curvature (14.4). Normal vectors.
+  ~ Arc Length (14.3).
 
 Day 4
-  ~ Functions of several variables (15.1). Level curves.
+  ~ Curvature (14.4). Normal vectors.
 
 ## Week  8 (03/07-03/11)
 
 Day 1
-  ~ Limits and Continuity in several variables (15.2).
+  ~ Functions of several variables (15.1). Level curves.
 
 Day 2
-  ~ Partial Derivatives (15.3).
+  ~ Limits and Continuity in several variables (15.2).
 
 Day 3
-  ~ Differentiability (15.4). Linear Approximation.
+  ~ Partial Derivatives (15.3).
 
 Day 4
-  ~ Gradient, Directional derivatives (15.5).
+  ~ Differentiability (15.4). Linear Approximation.
 
 ## Week  9 (03/14-03/18)
 
 Day 1
-  ~ Gradient, Directional derivatives (15.5, cont).
+  ~ Gradient, Directional derivatives (15.5).
 
 Day 2
-  ~ Review.
+  ~ Gradient, Directional derivatives (15.5, cont).
 
 Day 3
-  ~ Chain rule (15.6).
+  ~ Review.
 
 Day 4
   ~ **Midterm 2**
@@ -135,41 +132,41 @@ Day 4
 ## Week 10 (03/21-03/25)
 
 Day 1
-  ~ Optimization (15.7).
+  ~ Chain rule (15.6).
 
 Day 2
-  ~ Optimization (cont, 15.7).
+  ~ Optimization (15.7).
 
 Day 3
-  ~ Lagrange Multipliers (15.8).
+  ~ Optimization (cont, 15.7).
 
 Day 4
-  ~ Integration in two variables (16.1).
+  ~ Lagrange Multipliers (15.8).
 
 ## Week 11 (03/28-04/01)
 
 Day 1
-  ~ Integration over more general regions (16.2).
+  ~ Integration in two variables (16.1).
 
 Day 2
-  ~ Integration over more general regions (cont, 16.2).
+  ~ Integration over more general regions (16.2).
 
 Day 3
-  ~ Integrals in 3 dimensions (16.3).
+  ~ Integration over more general regions (cont, 16.2).
 
 Day 4
-  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
+  ~ Integrals in 3 dimensions (16.3).
 
 ## Week 12 (04/04-04/08)
 
 Day 1
-  ~ Change of variables (16.6).
+  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
 
 Day 2
-  ~ Change of variables (cont, 16.6).
+  ~ Change of variables (16.6).
 
 Day 3
-  ~ Catchup
+  ~ Change of variables (cont, 16.6).
 
 Day 4
   ~ Catchup
