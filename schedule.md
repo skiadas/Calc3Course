@@ -37,13 +37,13 @@ Day 1
 
 
 Day 2
-  ~ Ratio and Root tests (11.5).
+  ~ [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
 
 Day 3
-  ~ Power Series (11.6).
+  ~ [Ratio and Root tests (11.5)](notes/series_root.md)
 
 Day 4
-  ~ Power Series (cont, 11.6).
+  ~ Power Series (11.6).
 
 ## Week  4 (02/01-02/05)
 
