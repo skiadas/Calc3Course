@@ -43,7 +43,7 @@ Day 3
   ~ [Ratio and Root tests (11.5)](notes/series_root.md)
 
 Day 4
-  ~ Power Series (11.6).
+  ~ [Power Series (11.6)](notes/series_power.md)
 
 ## Week  4 (02/01-02/05)
 
