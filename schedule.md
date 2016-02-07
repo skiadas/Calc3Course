@@ -71,7 +71,7 @@ Day 3
   ~ Vectors in the Space (13.2). Equations for lines in space.
 
 Day 4
-  ~ **Midterm 1**
+  ~ **Midterm 1**  ([study guide](notes/midterm1_study_guide.md))
 
 ## Week  6 (02/15-02/19)
 
