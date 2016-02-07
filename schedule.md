@@ -62,7 +62,7 @@ Day 4
 ## Week  5 (02/08-02/12)
 
 Day 1
-  ~ Vectors in the Plane (13.1).
+  ~ [Vectors in the Plane (13.1)](notes/vectors.md)
 
 Day 2
   ~ Vectors in the Plane (13.1, cont).
