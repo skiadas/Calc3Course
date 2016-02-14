@@ -62,69 +62,69 @@ Day 4
 ## Week  5 (02/08-02/12)
 
 Day 1
-  ~ [Vectors in the Plane (13.1)](notes/vectors.md)
+  ~ [Taylor Series (11.7) cont](notes/series_taylor.md)
 
 Day 2
-  ~ Vectors in the Plane (13.1, cont).
+  ~ [Vectors in the Plane (13.1)](notes/vectors.md)
 
 Day 3
-  ~ Vectors in the Space (13.2). Equations for lines in space.
+  ~ Sick day
 
 Day 4
-  ~ **Midterm 1**  ([study guide](notes/midterm1_study_guide.md))
+  ~ Sick day
 
 ## Week  6 (02/15-02/19)
 
 Day 1
-  ~ Dot product and angles (13.3).
+  ~ Vectors in the Space (13.2). Equations for lines in space.
 
 Day 2
-  ~ Dot product and angles (cont, 13.3). Projections.
+  ~ **Midterm 1**  ([study guide](notes/midterm1_study_guide.md))
 
 Day 3
-  ~ Cross product (13.4).
+  ~ Dot product and angles (13.3).
 
 Day 4
-  ~ Equations for planes (13.5).
+  ~ Dot product and angles (cont, 13.3). Projections.
 
 ## Week  7 (02/22-02/26)
 
 Day 1
-  ~ Equations for planes (cont, 13.5).
+  ~ Cross product (13.4).
 
 Day 2
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Equations for planes (13.5).
 
 Day 3
-  ~ Vector-valued functions (14.1).
+  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
 
 Day 4
-  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
+  ~ Vector-valued functions (14.1).
 
 ## Week  8 (03/07-03/11)
 
 Day 1
-  ~ Arc Length (14.3).
+  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
 
 Day 2
-  ~ Curvature (14.4). Normal vectors.
+  ~ Arc Length (14.3).
 
 Day 3
-  ~ Functions of several variables (15.1). Level curves.
+  ~ Curvature (14.4). Normal vectors.
 
 Day 4
-  ~ Limits and Continuity in several variables (15.2).
+  ~ Functions of several variables (15.1). Level curves.
 
 ## Week  9 (03/14-03/18)
 
 Day 1
-  ~ Partial Derivatives (15.3).
+  ~ Limits and Continuity in several variables (15.2).
 
 Day 2
-  ~ Differentiability (15.4). Linear Approximation.
+  ~ Partial Derivatives (15.3).
 
 Day 3
-  ~ Gradient, Directional derivatives (15.5).
+  ~ Differentiability (15.4). Linear Approximation.
 
 Day 4
   ~ **Midterm 2**
@@ -132,7 +132,7 @@ Day 4
 ## Week 10 (03/21-03/25)
 
 Day 1
-  ~ Gradient, Directional derivatives (15.5, cont).
+  ~ Gradient, Directional derivatives (15.5).
 
 Day 2
   ~ Chain rule (15.6).
