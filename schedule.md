@@ -76,7 +76,7 @@ Day 4
 ## Week  6 (02/15-02/19)
 
 Day 1
-  ~ Vectors in the Space (13.2). Equations for lines in space.
+  ~ [Vectors in the Space (13.2). Equations for lines in space.](notes/vectors_space.md)
 
 Day 2
   ~ **Midterm 1**  ([study guide](notes/midterm1_study_guide.md))
