@@ -76,55 +76,55 @@ Day 4
 ## Week  6 (02/15-02/19)
 
 Day 1
-  ~ [Vectors in the Space (13.2). Equations for lines in space.](notes/vectors_space.md)
+  ~ Review
 
 Day 2
   ~ **Midterm 1**  ([study guide](notes/midterm1_study_guide.md))
 
 Day 3
-  ~ Dot product and angles (13.3).
+  ~ [Vectors in the Plane (13.1, cont)](notes/vectors.md)
 
 Day 4
-  ~ Dot product and angles (cont, 13.3). Projections.
+  ~ [Vectors in the Space (13.2). Equations for lines in space.](notes/vectors_space.md)
 
 ## Week  7 (02/22-02/26)
 
 Day 1
-  ~ Cross product (13.4).
+  ~ Dot product and angles (13.3).
 
 Day 2
-  ~ Equations for planes (13.5).
+  ~ Dot product and angles (cont, 13.3). Projections.
 
 Day 3
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Cross product (13.4).
 
 Day 4
-  ~ Vector-valued functions (14.1).
+  ~ Equations for planes (13.5).
 
 ## Week  8 (03/07-03/11)
 
 Day 1
-  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
+  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
 
 Day 2
-  ~ Arc Length (14.3).
+  ~ Vector-valued functions (14.1).
 
 Day 3
-  ~ Curvature (14.4). Normal vectors.
+  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
 
 Day 4
-  ~ Functions of several variables (15.1). Level curves.
+  ~ Arc Length (14.3).
 
 ## Week  9 (03/14-03/18)
 
 Day 1
-  ~ Limits and Continuity in several variables (15.2).
+  ~ Curvature (14.4). Normal vectors.
 
 Day 2
-  ~ Partial Derivatives (15.3).
+  ~ Functions of several variables (15.1). Level curves.
 
 Day 3
-  ~ Differentiability (15.4). Linear Approximation.
+  ~ Limits and Continuity in several variables (15.2).
 
 Day 4
   ~ **Midterm 2**
@@ -132,44 +132,44 @@ Day 4
 ## Week 10 (03/21-03/25)
 
 Day 1
-  ~ Gradient, Directional derivatives (15.5).
+  ~ Partial Derivatives (15.3).
 
 Day 2
-  ~ Chain rule (15.6).
+  ~ Differentiability (15.4). Linear Approximation.
 
 Day 3
-  ~ Optimization (15.7).
+  ~ Gradient, Directional derivatives (15.5).
 
 Day 4
-  ~ Optimization (cont, 15.7).
+  ~ Chain rule (15.6).
 
 ## Week 11 (03/28-04/01)
 
 Day 1
-  ~ Lagrange Multipliers (15.8).
+  ~ Optimization (15.7).
 
 Day 2
-  ~ Integration in two variables (16.1).
+  ~ Lagrange Multipliers (15.8).
 
 Day 3
-  ~ Integration over more general regions (16.2).
+  ~ Integration in two variables (16.1).
 
 Day 4
-  ~ Integrals in 3 dimensions (16.3).
+  ~ Integration over more general regions (16.2).
 
 ## Week 12 (04/04-04/08)
 
 Day 1
-  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
+  ~ Integrals in 3 dimensions (16.3).
 
 Day 2
-  ~ Change of variables (16.6).
+  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
 
 Day 3
-  ~ Change of variables (cont, 16.6).
+  ~ Change of variables (16.6).
 
 Day 4
-  ~ Catchup
+  ~ Change of variables (cont, 16.6).
 
 ## Week 13 (04/11-04/15)
 
