@@ -90,7 +90,7 @@ Day 4
 ## Week  7 (02/22-02/26)
 
 Day 1
-  ~ Dot product and angles (13.3).
+  ~ [Dot product and angles (13.3).](notes/dot_product.md)
 
 Day 2
   ~ Dot product and angles (cont, 13.3). Projections.
