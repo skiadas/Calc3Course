@@ -65,13 +65,12 @@ There will be two midterms, on Friday, February 12th and Friday, March 18th, and
 
 ## Grading
 
-Your final grade depends on class attendance, homework, project, quizzes, midterms and the final, as follows:
+Your final grade depends on class attendance, homework, project, midterms and the final, as follows:
 
      Component   Percent
 --------------  --------
     Attendance        5%
-      Homework       15%
-       Quizzes        5%
+      Homework       20%
  Worst Midterm       20%
 Middle Midterm       25%
   Best Midterm       30%
