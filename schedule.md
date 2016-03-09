@@ -107,7 +107,7 @@ Day 1
   ~ [Equations for planes (13.5).](notes/plane_equations.md)
 
 Day 2
-  ~ Vector-valued functions (14.1).
+  ~ [Vector-valued functions (14.1).](notes/vector_valued_functions.md)
 
 Day 3
   ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
