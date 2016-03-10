@@ -107,24 +107,24 @@ Day 1
   ~ [Equations for planes (13.5).](notes/plane_equations.md)
 
 Day 2
-  ~ [Vector-valued functions (14.1).](notes/vector_valued_functions.md)
+  ~ [Equations for planes (13.5), cont.](notes/plane_equations.md)
 
 Day 3
-  ~ Limits, derivatives, integrals for vector-valued functions (14.2). Derivative as tangent vector.
+  ~ [Vector-valued functions (14.1).](notes/vector_valued_functions.md)
 
 Day 4
-  ~ Arc Length (14.3).
+  ~ [Calculus of vector-valued functions (14.2).](notes/vector_valued_calculus.md)
 
 ## Week  9 (03/14-03/18)
 
 Day 1
-  ~ Curvature (14.4). Normal vectors.
+  ~ Arc Length (14.3).
 
 Day 2
-  ~ Functions of several variables (15.1). Level curves.
+  ~ Curvature (14.4). Normal vectors.
 
 Day 3
-  ~ Limits and Continuity in several variables (15.2).
+  ~ Functions of several variables (15.1). Level curves.
 
 Day 4
   ~ **Midterm 2**
@@ -132,52 +132,52 @@ Day 4
 ## Week 10 (03/21-03/25)
 
 Day 1
-  ~ Partial Derivatives (15.3).
+  ~ Limits and Continuity in several variables (15.2).
 
 Day 2
-  ~ Differentiability (15.4). Linear Approximation.
+  ~ Partial Derivatives (15.3).
 
 Day 3
-  ~ Gradient, Directional derivatives (15.5).
+  ~ Differentiability (15.4). Linear Approximation.
 
 Day 4
-  ~ Chain rule (15.6).
+  ~ Gradient, Directional derivatives (15.5).
 
 ## Week 11 (03/28-04/01)
 
 Day 1
-  ~ Optimization (15.7).
+  ~ Chain rule (15.6).
 
 Day 2
-  ~ Lagrange Multipliers (15.8).
+  ~ Optimization (15.7).
 
 Day 3
-  ~ Integration in two variables (16.1).
+  ~ Lagrange Multipliers (15.8).
 
 Day 4
-  ~ Integration over more general regions (16.2).
+  ~ Integration in two variables (16.1).
 
 ## Week 12 (04/04-04/08)
 
 Day 1
-  ~ Integrals in 3 dimensions (16.3).
+  ~ Integration over more general regions (16.2).
 
 Day 2
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Integrals in 3 dimensions (16.3).
 
 Day 3
-  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
+  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
 
 Day 4
-  ~ Change of variables (16.6).
+  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
 
 ## Week 13 (04/11-04/15)
 
 Day 1
-  ~ Change of variables (cont, 16.6).
+  ~ Change of variables (16.6).
 
 Day 2
-  ~ Catchup
+  ~ Change of variables (cont, 16.6).
 
 Day 3
   ~ Catchup
