@@ -118,24 +118,24 @@ Day 4
 ## Week  9 (03/14-03/18)
 
 Day 1
-  ~ Arc Length (14.3).
+  ~ [Arc Length (14.3).](notes/arc_length_curvature.md)
 
 Day 2
-  ~ Curvature (14.4). Normal vectors.
+  ~ [Curvature (14.4). Normal vectors.](notes/arc_length_curvature.md)
 
 Day 3
   ~ Functions of several variables (15.1). Level curves.
 
 Day 4
-  ~ **Midterm 2**
+  ~ Limits and Continuity in several variables (15.2).
 
 ## Week 10 (03/21-03/25)
 
 Day 1
-  ~ Limits and Continuity in several variables (15.2).
+  ~ Partial Derivatives (15.3).
 
 Day 2
-  ~ Partial Derivatives (15.3).
+  ~ **Midterm 2**
 
 Day 3
   ~ Differentiability (15.4). Linear Approximation.
