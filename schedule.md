@@ -124,7 +124,7 @@ Day 2
   ~ [Curvature (14.4). Normal vectors.](notes/arc_length_curvature.md)
 
 Day 3
-  ~ Functions of several variables (15.1). Level curves.
+  ~ [Functions of multipe variables (15.1). Level curves.](notes/multiple_variables.md)
 
 Day 4
   ~ Limits and Continuity in several variables (15.2).
