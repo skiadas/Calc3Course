@@ -135,7 +135,7 @@ Day 1
   ~ Partial Derivatives (15.3).
 
 Day 2
-  ~ **Midterm 2**
+  ~ **Midterm 2**  ([study guide](notes/midterm2_study_guide.md))
 
 Day 3
   ~ Differentiability (15.4). Linear Approximation.
