@@ -127,7 +127,7 @@ Day 3
   ~ [Functions of multipe variables (15.1). Level curves.](notes/multiple_variables.md)
 
 Day 4
-  ~ Limits and Continuity in several variables (15.2).
+  ~ [Limits and Continuity in several variables (15.2).](notes/limits_continuity.md)
 
 ## Week 10 (03/21-03/25)
 
