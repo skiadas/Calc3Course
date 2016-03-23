@@ -132,52 +132,52 @@ Day 4
 ## Week 10 (03/21-03/25)
 
 Day 1
-  ~ Partial Derivatives (15.3).
+  ~ [Limits and Continuity in several variables (15.2).](notes/limits_continuity.md)
 
 Day 2
   ~ **Midterm 2**  ([study guide](notes/midterm2_study_guide.md))
 
 Day 3
-  ~ Differentiability (15.4). Linear Approximation.
+  ~ [Partial Derivatives (15.3).](notes/partial_derivatives.md)
 
 Day 4
-  ~ Gradient, Directional derivatives (15.5).
+  ~ Differentiability (15.4). Linear Approximation.
 
 ## Week 11 (03/28-04/01)
 
 Day 1
-  ~ Chain rule (15.6).
+  ~ Gradient, Directional derivatives (15.5).
 
 Day 2
-  ~ Optimization (15.7).
+  ~ Chain rule (15.6).
 
 Day 3
-  ~ Lagrange Multipliers (15.8).
+  ~ Optimization (15.7).
 
 Day 4
-  ~ Integration in two variables (16.1).
+  ~ Lagrange Multipliers (15.8).
 
 ## Week 12 (04/04-04/08)
 
 Day 1
-  ~ Integration over more general regions (16.2).
+  ~ Integration in two variables (16.1).
 
 Day 2
-  ~ Integrals in 3 dimensions (16.3).
+  ~ Integration over more general regions (16.2).
 
 Day 3
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Integrals in 3 dimensions (16.3).
 
 Day 4
-  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
+  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
 
 ## Week 13 (04/11-04/15)
 
 Day 1
-  ~ Change of variables (16.6).
+  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
 
 Day 2
-  ~ Change of variables (cont, 16.6).
+  ~ Change of variables (16.6).
 
 Day 3
   ~ Catchup
