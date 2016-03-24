@@ -141,7 +141,7 @@ Day 3
   ~ [Partial Derivatives (15.3).](notes/partial_derivatives.md)
 
 Day 4
-  ~ Differentiability (15.4). Linear Approximation.
+  ~ [Differentiability (15.4). Linear Approximation.](notes/differentiability.md)
 
 ## Week 11 (03/28-04/01)
 
