@@ -146,7 +146,7 @@ Day 4
 ## Week 11 (03/28-04/01)
 
 Day 1
-  ~ Gradient, Directional derivatives (15.5).
+  ~ [Gradient, Directional derivatives (15.5).](notes/gradient.md)
 
 Day 2
   ~ Chain rule (15.6).
