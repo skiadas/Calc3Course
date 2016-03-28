@@ -146,41 +146,41 @@ Day 4
 ## Week 11 (03/28-04/01)
 
 Day 1
-  ~ [Gradient, Directional derivatives (15.5).](notes/gradient.md)
+  ~ [Gradient](notes/gradient.md)
 
 Day 2
-  ~ Chain rule (15.6).
+  ~ [Directional Derivatives](notes/gradient.md)
 
 Day 3
-  ~ Optimization (15.7).
+  ~ Chain rule (15.6).
 
 Day 4
-  ~ Lagrange Multipliers (15.8).
+  ~ Optimization (15.7).
 
 ## Week 12 (04/04-04/08)
 
 Day 1
-  ~ Integration in two variables (16.1).
+  ~ Lagrange Multipliers (15.8).
 
 Day 2
-  ~ Integration over more general regions (16.2).
+  ~ Integration in two variables (16.1).
 
 Day 3
-  ~ Integrals in 3 dimensions (16.3).
+  ~ Integration over more general regions (16.2).
 
 Day 4
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Integrals in 3 dimensions (16.3).
 
 ## Week 13 (04/11-04/15)
 
 Day 1
-  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
+  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
 
 Day 2
-  ~ Change of variables (16.6).
+  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
 
 Day 3
-  ~ Catchup
+  ~ Change of variables (16.6).
 
 Day 4
   ~ Catchup
