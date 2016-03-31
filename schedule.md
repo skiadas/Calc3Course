@@ -152,7 +152,7 @@ Day 2
   ~ [Directional Derivatives](notes/gradient.md)
 
 Day 3
-  ~ Chain rule (15.6).
+  ~ [Chain rule (15.6).](notes/chain_rule.md)
 
 Day 4
   ~ Optimization (15.7).
