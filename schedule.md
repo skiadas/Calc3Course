@@ -155,7 +155,7 @@ Day 3
   ~ [Chain rule (15.6).](notes/chain_rule.md)
 
 Day 4
-  ~ Optimization (15.7).
+  ~ [Optimization (15.7).](notes/optimization.md)
 
 ## Week 12 (04/04-04/08)
 
