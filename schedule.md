@@ -160,21 +160,21 @@ Day 4
 ## Week 12 (04/04-04/08)
 
 Day 1
-  ~ Lagrange Multipliers (15.8).
+  ~ [Optimization (15.7) cont.](notes/optimization.md)
 
 Day 2
-  ~ Integration in two variables (16.1).
+  ~ Lagrange Multipliers (15.8).
 
 Day 3
-  ~ Integration over more general regions (16.2).
+  ~ Integration in two variables (16.1).
 
 Day 4
-  ~ Integrals in 3 dimensions (16.3).
+  ~ Integration over more general regions (16.2).
 
 ## Week 13 (04/11-04/15)
 
 Day 1
-  ~ Polar, Cylindrical and Spherical Coordinates (12.3, 13.7).
+  ~ Integrals in 3 dimensions (16.3).
 
 Day 2
   ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
