@@ -15,6 +15,6 @@ Sections 15.7
 1. Definition of local extrema
 2. Critical points and Fermat's theorem
 3. Second derivative test
-4. Illustration for $x^2+y^2, $x^2-y^2$, $xy$
+4. Illustration for $x^2+y^2$, $x^2-y^2$, $xy$
 5. Comparison of special cases to second derivative test
 6. Global maxima, boundary
