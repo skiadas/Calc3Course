@@ -166,10 +166,10 @@ Day 2
   ~ [Lagrange Multipliers (15.8).](notes/lagrange_mults.md)
 
 Day 3
-  ~ Integration in two variables (16.1).
+  ~ [Integration in two variables (16.1).](notes/multiple_integrals.md)
 
 Day 4
-  ~ Integration over more general regions (16.2).
+  ~ [Integration over more general regions (16.2).](notes/integrals_general.md)
 
 ## Week 13 (04/11-04/15)
 
