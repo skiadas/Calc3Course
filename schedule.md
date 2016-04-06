@@ -163,7 +163,7 @@ Day 1
   ~ [Optimization (15.7) cont.](notes/optimization.md)
 
 Day 2
-  ~ Lagrange Multipliers (15.8).
+  ~ [Lagrange Multipliers (15.8).](notes/lagrange_mults.md)
 
 Day 3
   ~ Integration in two variables (16.1).
