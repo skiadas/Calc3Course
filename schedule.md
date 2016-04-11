@@ -174,13 +174,13 @@ Day 4
 ## Week 13 (04/11-04/15)
 
 Day 1
-  ~ Integrals in 3 dimensions (16.3).
+  ~ [Integrals in Polar Coordinates (16.4).](notes/integrals_polar.md)
 
 Day 2
-  ~ Integrals in Polar, Cylindrical, Spherical coordinates (16.4).
+  ~ Change of variables (16.6).
 
 Day 3
-  ~ Change of variables (16.6).
+  ~ Review
 
 Day 4
   ~ Catchup
