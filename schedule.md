@@ -177,7 +177,7 @@ Day 1
   ~ [Integrals in Polar Coordinates (16.4).](notes/integrals_polar.md)
 
 Day 2
-  ~ Change of variables (16.6).
+  ~ [Change of variables (16.6).](notes/integrals_change_variables.md)
 
 Day 3
   ~ Review
