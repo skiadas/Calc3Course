@@ -9,22 +9,22 @@ Instructor
   ~ Charilaos Skiadas (skiadas at hanover dot edu)
 
 Term
-  ~ Winter 2015-2016
+  ~ Winter 2017-2018
 
 Office
-  ~ SCH 121C
+  ~ SCH 121C / LYN 108
 
 Office Hours
-  ~ MW 2pm-4pm, R 2pm-3pm, and by appointment.
+  ~  MWF 10-11 in SCH 121C, T 12-2 in LYN 108, and by appointment
 
 Book
   ~ *Calculus*, 3rd ed, by Jon Rogawski
 
 Websites
-  ~ [for notes](skiadas.github.io/Calc3Course/site/), [for quizzes](https://moodle.hanover.edu/course/view.php?id=1480).
+  ~ [https://skiadas.github.io/Calc3Course/site/](https://skiadas.github.io/Calc3Course/site/)
 
 Class times
-  ~ MWRF 12pm-1pm in SCH102.
+  ~ MWF
 
 ## Course Description
 
@@ -45,17 +45,19 @@ On the website you will find a [schedule](http://skiadas.github.io/Calc3Course/s
 
 ### Class Attendance
 
-You are expected to attend every class meeting, including labs. You are only allowed to miss 3 classes without excuse. From that point on, every unexcused absence will result in a reduction of your final score by one percentage point, up to a total of 5 points. Excused absences should be arranged in advance, and backed by appropriate documentation. Emergencies will be dealt with on an individual basis. There are very few reasons that would qualify as an excuse for an absence.
+You are expected to attend every class meeting. You are only allowed to miss 3 classes without excuse. From that point on, every unexcused absence will result in a reduction of your final score by one percentage point, up to a total of 5 points. Excused absences should be arranged in advance, and backed by appropriate documentation. Emergencies will be dealt with on an individual basis. There are very few reasons that would qualify as an excuse for an absence.
 
 ### Homework Assignments
 
-There will be regular homework assignments about once per week. There will also be a list of problems that you are expected to solve but not turn in. Questions on the exams tend to be similar to the homework problems, so it is to your advantage to really *understand* the homework, and not merely "do it" or copy it just to get it turned in. Homework assignments are 15% of your final grade.
+There will be regular homework assignments about once per week. There will also be a list of problems that you are expected to solve but not turn in. Questions on the exams tend to be similar to the homework problems, so it is to your advantage to really *understand* the homework, and not merely "do it" or copy it just to get it turned in. Homework assignments are 10% of your final grade.
 
-There will also be online quizzes in Moodle that will give you an opportunity to review/test your knowledge of the theory. Quizzes will be 5% of your final grade.
+### Online Assignments
+
+There will be also be regular *online* homework assignments about once per week. These assignments are designed to offer you opportunities for practice. Therefore, they may be taken multiple times and only the highest score will count. Also, after you have completed the assignment once, you can revisit that attempt and try out other answers for practice. Online Homework assignments are 10% of your final grade.
 
 ### Exams
 
-There will be two midterms, on Friday, February 12th and Friday, March 18th, and a final/3rd midterm during finals week. **You have to be here for the exams**. If you have conflicts with these days, let me know as soon as possible. Do not plan your vacation before you are aware of the finals schedule. In terms of your final grade, the exams you did better on will weigh more.
+There will be two midterms, on Monday, February 5 and Monday, March 12, and a final/3rd midterm during finals week. **You have to be here for the exams**. If you have conflicts with these days, let me know as soon as possible. Do not plan your vacation before you are aware of the finals schedule. In terms of your final grade, the exams you did better on will weigh more.
 
 ### Getting Help
 
@@ -67,13 +69,14 @@ There will be two midterms, on Friday, February 12th and Friday, March 18th, and
 
 Your final grade depends on class attendance, homework, project, midterms and the final, as follows:
 
-     Component   Percent
---------------  --------
-    Attendance        5%
-      Homework       20%
- Worst Midterm       20%
-Middle Midterm       25%
-  Best Midterm       30%
+      Component   Percent
+---------------  --------
+     Attendance        5%
+       Homework       10%
+Online Homework       10%
+  Worst Midterm       20%
+ Middle Midterm       25%
+   Best Midterm       30%
 
 This gives a number up to 100, which is then converted to a letter grade based roughly on the following correspondence:
 

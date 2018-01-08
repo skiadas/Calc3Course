@@ -7,33 +7,65 @@
   <meta name="generator" content="pandoc" />
   <title></title>
   <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet" href="http://skiadas.github.io/css/course.css" type="text/css" />
-<script type="text/javascript"
-  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+<link rel="stylesheet" href="https://skiadas.github.io/css/course.css" type="text/css" />
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 </head>
 <body>
 <h1 id="sequences">Sequences</h1>
 <h2 id="reading">Reading</h2>
-<p>Section 11.1 up to page 548</p>
+<p>Section 11.1</p>
 <h2 id="problems">Problems</h2>
 <ul>
 <li>Practice Problems: 11.1 3, 5, 11, 17, 23, 25, 35, 41</li>
-<li>Problems to turn in: 11.1 16, 26, 48</li>
+<li>Practice Problems: 11.1 61, 65, 67, 73, 74, 83</li>
+<li>Problems to turn in: 11.1 16, 26, 48, 70</li>
+<li>Challenge (optional): 11.1 85, 86, 87</li>
 </ul>
 <h2 id="topics-to-know">Topics to know</h2>
 <ol style="list-style-type: decimal">
-<li>Relation between series and sequences</li>
 <li>Definition of a sequence</li>
-<li>Basic examples of sequences and their visualizations</li>
-<li>Sequences defined recursively (Key example: Sequence that approaches root, example 1)</li>
-<li>Definition of limit of sequence, both intuitive and precise</li>
-<li>Sequences derived from functions (theorem 1)</li>
-<li>Geometric sequence (example 6)</li>
+<li>Basic examples of sequences and their visualizations
+<ul>
+<li><span class="math inline">\(a_n = 1-\frac{1}{n}\)</span>, <span class="math inline">\(a_n = (-1)^n n\)</span></li>
+<li>Visualize as a graph as well as as points in the plane</li>
+</ul></li>
+<li>Sequences defined recursively
+<ul>
+<li>Newton’s method sequence for <span class="math inline">\(\sqrt{2}\)</span></li>
+<li><span class="math inline">\(a_{n+1} = \sqrt{a_n}\)</span>, <span class="math inline">\(a_1 = 2\)</span></li>
+</ul></li>
+<li>Definition of limit of sequence, both intuitive and precise
+<ul>
+<li>Find the limit of <span class="math inline">\(\frac{n+1}{n+2}\)</span></li>
+</ul></li>
+<li>Sequences derived from functions (theorem 1)
+<ul>
+<li><span class="math inline">\(\lim_{n\to\infty} n^{1/n}\)</span></li>
+</ul></li>
+<li>Geometric sequence for non-negative <span class="math inline">\(r\)</span> (example 6)</li>
 <li>Limit laws for sequences, squeeze theorem</li>
 <li>A sequence that absolutely converges to 0 also converges to 0</li>
-<li>Geometric sequence for negative r (example 8)</li>
-<li>Using squeeze theorem for convergence of more complicated forms (example 9)</li>
+<li>Geometric sequence for negative <span class="math inline">\(r\)</span> (example 8)</li>
+<li>Using squeeze theorem for convergence of more complicated forms (example 9)
+<ul>
+<li><span class="math inline">\(\lim_{n\to\infty} \frac{R^n}{n!}\)</span></li>
+</ul></li>
+<li>Passing a sequence through a function
+<ul>
+<li>Use for <span class="math inline">\(n^{1/n}\)</span></li>
+</ul></li>
+<li>Definition of bounded sequence</li>
+<li>Convergent sequences are bounded (theorem 5)</li>
+<li>Bounded monotonic sequences converge (theorem 6)</li>
+<li>How to use theorem 6 for recursively defined functions:
+<ul>
+<li>First guess what the limit would be if it existed</li>
+<li>Show that this limit acts as a bound (proof by induction)</li>
+<li>Show sequence is increasing/decreasing (proof by induction)</li>
+<li>Apply for <span class="math inline">\(a_{n+1} = \sqrt{2a_n}\)</span></li>
+</ul></li>
 </ol>
 </body>
 </html>
