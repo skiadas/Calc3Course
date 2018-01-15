@@ -18,13 +18,15 @@ Day 3
 Day 1
   ~ [Infinite Series (11.2)](notes/series_intro.md)
 
-    HW Due: 11.1 16, 26, 48, 70
-
 Day 2
   ~ [Positive Terms series (11.3)](notes/series_positive.md)
 
+    HW Due: 11.1 16, 26, 48, 70
+
 Day 3
   ~ [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
+
+    HW Due: 11.2 12, 14, 18, 30, 34
 
 ## Week  3 (01/22-01/26)
 

@@ -19,4 +19,4 @@ Section 11.2
 5. Geometric Series (theorem 2)
 6. Example 5
 7. Divergence Test
-8. Counter-example for converse of divergence test
+8. Counter-example 8 for converse of divergence test: $\sum\frac{1}{\sqrt{n}}$
