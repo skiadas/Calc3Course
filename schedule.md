@@ -16,29 +16,35 @@ Day 3
 ## Week  2 (01/15-01/19)
 
 Day 1
-  ~ [Infinite Series (11.2)](notes/series_intro.md)
+  ~ Catchup
 
 Day 2
-  ~ [Positive Terms series (11.3)](notes/series_positive.md)
+  ~ [Infinite Series (11.2)](notes/series_intro.md)
 
     HW Due: 11.1 16, 26, 48, 70
 
 Day 3
-  ~ [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
+  ~ [Positive Terms series (11.3)](notes/series_positive.md)
 
-    HW Due: 11.2 12, 14, 18, 30, 34
 
 ## Week  3 (01/22-01/26)
 
 Day 1
-  ~ [Ratio and Root tests (11.5)](notes/series_root.md)
+  ~ [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
+
+    HW Due: 11.2 12, 14, 18, 30, 34
 
 Day 2
-  ~ Series tests review.
+  ~ [Ratio and Root tests (11.5)](notes/series_root.md)
+
+    Series tests review.
+
+    11.3 8, 10, 24, 40
 
 Day 3
   ~ [Power Series (11.6)](notes/series_power.md)
 
+    11.4 12, 22, 26, 30
 
 ## Week  4 (01/29-02/02)
 
