@@ -32,7 +32,7 @@
     2. A positive terms series converges if and only if it is bounded
     3. p-series test
     3. A series that converges absolutely also converges normally
-    4. Ratio test
+    4. (Idea of the) proof of the ratio test
 - Extra practice problems, from the "Chapter Review Exercises" on page 609:
     1. 3, 8, 9, 10, 17, 18, 19
     2. 29, 30, 33, 34, 37, 40
