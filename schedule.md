@@ -21,7 +21,7 @@ Day 1
 Day 2
   ~ [Infinite Series (11.2)](notes/series_intro.md)
 
-    HW Due: 11.1 16, 26, 48, 70
+    HW 1 Due: 11.1 16, 26, 48, 70
 
 Day 3
   ~ [Positive Terms series (11.3)](notes/series_positive.md)
@@ -32,19 +32,19 @@ Day 3
 Day 1
   ~ [Absolute vs Conditional Convergence (11.4)](notes/series_conditional.md)
 
-    HW Due: 11.2 12, 14, 18, 30, 34
+    HW 2 Due: 11.2 12, 14, 18, 30, 34
 
 Day 2
   ~ [Ratio and Root tests (11.5)](notes/series_root.md)
 
     Series tests review.
 
-    11.3 8, 10, 24, 40
+    HW 3 Due: 11.3 8, 10, 24, 40
 
 Day 3
   ~ [Power Series (11.6)](notes/series_power.md)
 
-    11.4 12, 22, 26, 30
+    HW 4 Due: 11.4 12, 22, 26, 30
 
 ## Week  4 (01/29-02/02)
 
@@ -53,6 +53,8 @@ Day 1
 
 Day 2
   ~ [Taylor Series (11.7) cont](notes/series_taylor.md)
+
+    HW 5 Due: 11.5 6, 10, 16, 24, 40
 
 Day 3
   ~ Review
@@ -65,16 +67,24 @@ Day 1
 Day 2
   ~ [Vectors in the Plane (13.1)](notes/vectors.md)
 
+    HW 6 Due: 11.6 6, 10, 16, 20, 40
+
 Day 3
   ~ [Vectors in the Space (13.2). Equations for lines in space.](notes/vectors_space.md)
+
+    HW 7 Due: 11.7 8, 12, 32, 38
 
 ## Week  6 (02/12-02/16)
 
 Day 1
   ~ [Dot product and angles (13.3).](notes/dot_product.md)
 
+    HW 8 Due: 13.1 12, 14, 20, 34, 46
+
 Day 2
   ~ [Dot product and angles (cont, 13.3). Projections.](notes/dot_product.md)
+
+    HW 9 Due: 13.2 14, 20, 26, 30, 35, 52
 
 Day 3
   ~ [Cross product (13.4).](notes/cross_product.md)
