@@ -82,23 +82,25 @@ Day 1
     HW 8 Due: 13.1 12, 14, 20, 34, 46
 
 Day 2
-  ~ [Dot product and angles (cont, 13.3). Projections.](notes/dot_product.md)
+  ~ [Cross product (13.4).](notes/cross_product.md)
 
     HW 9 Due: 13.2 14, 20, 26, 30, 35, 52
 
 Day 3
-  ~ [Cross product (13.4).](notes/cross_product.md)
+  ~ [Equations for planes (13.5).](notes/plane_equations.md)
+
+    HW 10 Due: 13.3 10, 18, 30, 38, 50
 
 ## Week  7 (02/19-02/23)
 
 Day 1
-  ~ [Equations for planes (13.5).](notes/plane_equations.md)
-
-Day 2
   ~ [Vector-valued functions (14.1).](notes/vector_valued_functions.md)
 
-Day 3
+Day 2
   ~ [Calculus of vector-valued functions (14.2).](notes/vector_valued_calculus.md)
+
+Day 3
+  ~ Conference
 
 ## Week  8 (02/26-03/02)
 
