@@ -96,8 +96,12 @@ Day 3
 Day 1
   ~ [Vector-valued functions (14.1).](notes/vector_valued_functions.md)
 
+    HW 11 Due: 13.4 14, 20, 30, 34, 44
+
 Day 2
   ~ [Calculus of vector-valued functions (14.2).](notes/vector_valued_calculus.md)
+
+    HW 12 Due: 13.5 8, 18, 22, 28, 34
 
 Day 3
   ~ Conference
