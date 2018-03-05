@@ -121,7 +121,7 @@ Day 2
 Day 3
   ~ [Functions of multiple variables (15.1). Level curves.](notes/multiple_variables.md)
 
-    14.2 6, 10, 18, 26, 32, 42
+    HW 13 Due: 14.2 6, 10, 18, 26, 32, 42
 
 ## Week 10 (03/12-03/16)
 
@@ -131,7 +131,7 @@ Day 1
 Day 2
   ~ [Partial Derivatives (15.3).](notes/partial_derivatives.md)
 
-    14.3 4, 8, 24, 14.4 10, 12
+    HW 14 Due: 14.3 4, 8, 24, 14.4 10, 12
 
 Day 3
   ~ [Differentiability (15.4). Linear Approximation.](notes/differentiability.md)
