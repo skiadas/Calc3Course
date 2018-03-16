@@ -152,11 +152,23 @@ Day 3
 Day 1
   ~ [Chain rule (15.6).](notes/chain_rule.md)
 
+    HW 15 Due: 15.1 20, 28, 30, 32, 36
+
+    HW 16 Due: 15.2 12, 14, 22, 24
+
 Day 2
   ~ [Optimization (15.7).](notes/optimization.md)
 
+    HW 17 Due: 15.3 4, 10, 18, 32, 58
+
+    HW 18 Due: 15.4 6, 12, 14, 16, 26
+
 Day 3
   ~ [Lagrange Multipliers (15.8).](notes/lagrange_mults.md)
+
+    HW 19 Due: 15.5 6, 10, 24, 32, 36
+
+    HW 20 Due: 15.6 2, 8, 12, 16, 26
 
 ## Week 13 (04/02-04/06)
 
