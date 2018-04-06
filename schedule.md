@@ -173,21 +173,33 @@ Day 3
 ## Week 13 (04/02-04/06)
 
 Day 1
-  ~ [Integration in two variables (16.1).](notes/multiple_integrals.md)
+  ~ [Lagrange Multipliers (15.8).](notes/lagrange_mults.md)
 
 Day 2
-  ~ [Integration over more general regions (16.2).](notes/integrals_general.md)
+  ~ [Integration in two variables (16.1).](notes/multiple_integrals.md)
+
+    HW 21 Due: 15.7 4, 6, 10, 36, 46
 
 Day 3
-  ~ [Integrals in Polar Coordinates (16.4).](notes/integrals_polar.md)
+  ~ [Integration over more general regions (16.2).](notes/integrals_general.md)
+
+    HW 22 Due: 15.8 4, 6, 12, 20, 24
 
 ## Week 14 (04/09-04/13)
 
 Day 1
-  ~ [Change of variables (16.6).](notes/integrals_change_variables.md)
+  ~ [Integrals in Polar Coordinates (16.4).](notes/integrals_polar.md)
+
+    HW 23 Due: 16.1 6, 20, 28, 32, 44
 
 Day 2
-  ~ Review
+  ~ [Change of variables (16.6).](notes/integrals_change_variables.md)
+
+    HW 24 Due: 16.2 6, 8, 10, 18, 30
+
+    HW 25 Due: 16.4 2, 4, 8, 12, 16
 
 Day 3
   ~ Catchup
+
+    HW 26 Due: 16.6 8, 14, 30, 34
